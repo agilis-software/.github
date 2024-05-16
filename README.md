@@ -1,3 +1,5 @@
+![Banner](./assets/Agilis.png)
+
 # Agilis 🚀
 
 Agilis é uma plataforma de gestão de times de programação, permitindo atribuir tarefas e comunicar-se com os colaboradores em um único aplicativo web! 💻🌐
