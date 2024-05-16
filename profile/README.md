@@ -1,4 +1,4 @@
-![Banner](./assets/Agilis.png)
+![Banner](https://github.com/agilis-software/.github/tree/main/images/agilis-banner.png)
 
 # Agilis 🚀
 
